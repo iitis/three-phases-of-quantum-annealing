@@ -9,7 +9,7 @@ The code is written by Artur Soriani.
 
 ## How to run
 1. To compile this code, use `g++ -std=c++14 TI_comented.cpp -o TI.x`
-2. When compiled, type `/.TI.x 100 log -2 2` to run the program.
+2. When compiled, type `./TI.x 100 log -2 2` to run the program.
 
 ## Citation
 If you find this research useful, please cite it under:
