@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10102872.svg)](https://doi.org/10.5281/zenodo.10102872)
+
 # Three phases of quantum annealing: Fast, slow, and very slow
 Artur Soriani, Pierre Nazé, Marcus V. S. Bonança, Bartłomiej Gardas, and Sebastian Deffner
 
